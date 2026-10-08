@@ -1,0 +1,6 @@
+{
+  "name": "AI Tool Builder",
+  "description": "Create, customize, and run your own specialized AI agents and text processing tools powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
